@@ -1,83 +1,112 @@
-# Hi, I'm ChenJiu  
-# 你好，我是陈酒
+# Hi, I'm ChenJiu
 
-A software engineering graduate who enjoys building useful things.  
-一个喜欢把想法做成项目的软件工程毕业生。
+也可以叫我陈酒。
+软件工程专业背景，长期关注 Web 开发、微信小程序、服务器部署、个人基础设施搭建与数字产品实践。
 
-I write code, fix bugs, deploy projects, and occasionally wonder why it works after I change only one line.  
-我写代码、修 Bug、部署项目，也会在改了一行代码后陷入“它怎么突然好了”的沉思。
+我喜欢把技术真正跑起来：从页面设计、前后端开发，到服务器部署、域名、HTTPS、反向代理、远程维护和项目上线，我更愿意通过完整链路理解系统，而不是只停留在概念层面。
+
+---
 
 ## About Me
 
-- Full-stack development learner and practitioner  
-  全栈开发学习者与实践者
+* 软件工程专业背景
+* 个人技术库：chenjiuz.com
+* 正在持续积累真实项目、工程经验与部署经验
+* 关注方向：Web 应用、小程序、后台管理系统、数字产品、个人服务器与自托管服务
+* 习惯通过完整项目理解技术，从需求拆解、功能开发到部署上线持续沉淀经验
 
-- Mainly working with Vue, Node.js, Spring Boot and MySQL  
-  主要使用 Vue、Node.js、Spring Boot 和 MySQL
-
-- Interested in real projects, clean interfaces and stable backend services  
-  关注真实项目、清爽界面和稳定后端
-
-- I like solving problems step by step, especially when the problem looks impossible at first  
-  喜欢一步步拆解问题，尤其是那些一开始看起来很难的东西
+---
 
 ## Tech Stack
 
-```text
-Frontend:  Vue 3 / JavaScript / HTML / CSS
-Backend:   Node.js / Express / Spring Boot / Java
-Database:  MySQL
-Tools:     Git / GitHub / VS Code / IDEA / Linux / Nginx
-````
+### Frontend
+
+Vue 3 / Vite / React / Next.js / TypeScript / JavaScript / HTML / CSS / SCSS
+
+### Backend
+
+Node.js / Express / Spring Boot / Java / REST API
+
+### Database
+
+MySQL / 云开发数据库
+
+### Deployment & Infrastructure
+
+Ubuntu Server / Nginx / PVE / ZeroTier / DDNS / HTTPS / Linux 服务部署
+
+### Mini Program
+
+微信小程序 / 云开发 / 小程序商城 / 微信生态业务流程
+
+---
 
 ## Projects
 
-### Programming Learning Support System
+### chenjiuz.com
+
+个人技术库与项目作品展示站。
+用于沉淀个人项目、技术笔记、学习资源与长期实践记录。
 
 ### 编程学习支持系统
 
-A web system for programming beginners.
-一个面向编程初学者的学习支持系统。
+一个面向编程初学者的学习支持平台，围绕工具获取、环境配置、入门引导、技术文档、动态更新与收藏功能组织完整学习流程。
 
-It includes development tools, beginner guides, technical documents, update information, favorites and admin management.
-包含开发工具获取、入门引导、技术文档、动态更新、收藏和后台管理等功能。
+技术栈：Vue 3 / Node.js / Express / MySQL / Python
 
-### Campus Sports Meeting Management System
+### HomeLab 家庭服务器与网络部署实践
+
+以家庭网络为入口，搭建软路由、虚拟化、NAS、远程访问、DDNS、HTTPS 与服务器部署环境，用于承载个人项目和服务实验。
+
+技术栈：OpenWrt / PVE / Ubuntu Server / Nginx / ZeroTier / MySQL
 
 ### 校园运动会管理系统
 
-A Spring Boot system for campus sports meeting management.
-一个基于 Spring Boot 的校园运动会管理系统。
+一个面向校园运动会场景的管理系统，包含用户管理、赛事管理、报名管理、成绩录入、公告新闻、资源管理与权限控制等功能。
 
-It supports student registration, event management, audit, score entry and role-based operations.
-支持学生报名、赛事管理、报名审核、成绩录入和多角色管理。
+技术栈：Spring Boot / Java / MyBatis / MySQL / Vue 3 / Element Plus
 
-### WeChat Milk Tea Ordering Mini Program
+### 微信小程序商城实践
 
-### 微信奶茶店点餐小程序
+完成小程序商城 MVP，包括首页、分类、购物车、我的页面、商品展示、订单入口、品牌信息与基础业务闭环。
 
-A mini program for store pickup milk tea ordering.
-一个面向到店自取场景的微信奶茶点餐小程序。
+技术栈：微信小程序 / 云开发 / SCSS / TypeScript
 
-It supports product categories, search, cart, orders, user center, activities and coupons.
-支持商品分类、搜索、购物车、订单、个人中心、活动和优惠券。
+---
 
-## Current Focus
+## What I'm Learning
 
-```text
-Building projects.
-Improving engineering skills.
-Making my code cleaner than yesterday.
-```
+我正在持续学习和实践：
 
-```text
-做项目。
-练工程能力。
-让今天的代码比昨天干净一点。
-```
+* 更清晰的前端组件化与页面结构设计
+* 更稳定的后端接口设计与数据库建模
+* 更完整的项目部署、运维与远程维护流程
+* 更适合真实业务的产品拆解与交付方式
+* 更系统的个人技术内容沉淀
+
+---
+
+## My Thinking
+
+我相信技术学习不只是记住概念，而是把一个系统从零搭起来，遇到问题，定位问题，解决问题，然后把经验沉淀下来。
+
+对我来说，真正有价值的学习是：
+
+* 能解释原理
+* 能跑通流程
+* 能定位问题
+* 能复用经验
+* 能长期维护
+
+---
+
+
 
 ## Contact
 
-GitHub: ChenJiuZ
-Email: [chenjiu.zkq@proton.me](mailto:chenjiu.zkq@proton.me)
+* Website: https://www.chenjiuz.com
+* GitHub: https://github.com/chenjiuz
 
+---
+
+> Building, learning, deploying, and documenting.
